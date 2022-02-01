@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj": {}
+    "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj": {
+    "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
+        "projectUniqueName": "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
         "projectName": "apiTipoCambioBCP",
-        "projectPath": "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
+        "projectPath": "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
         "packagesPath": "C:\\Users\\fu70401138-ext\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\obj\\",
+        "outputPath": "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

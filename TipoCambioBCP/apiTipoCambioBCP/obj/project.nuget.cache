@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H0ompeEbKouU+bsmOlUhKRcv4WteGBffyKMdBQWXHZZPbFf1rtvzfH17IzQjeLLEpPsbtkwHV3v+ol5cJA0w5Q==",
+  "dgSpecHash": "CBwgUygxehzcWUpV73HUfM3x4411feJZL6aiBRskryicLfm41T0aixl686IFrb6L+kP1WZ/l1gp5U541JrnPjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fu70401138-ext\\Documents\\Pendiente Edu\\BCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
+  "projectFilePath": "C:\\Users\\fu70401138-ext\\Documents\\GitHub\\TipoCambioBCP\\TipoCambioBCP\\apiTipoCambioBCP\\apiTipoCambioBCP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fu70401138-ext\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\fu70401138-ext\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",

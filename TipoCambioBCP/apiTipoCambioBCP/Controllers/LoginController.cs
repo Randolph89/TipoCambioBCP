@@ -2,15 +2,15 @@
 using apiTipoCambioBCP.CrossCutting.Helpers;
 using apiTipoCambioBCP.Service.Interfaces;
 using AutoMapper;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace apiTipoCambioBCP.Controllers
 {
+    [EnableCors("CorsPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class LoginController : ControllerBase
